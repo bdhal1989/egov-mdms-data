@@ -2,6 +2,20 @@
   "tenantId": "pb.amritsar",
   "moduleName": "egf-master",
   "FinancialYear": [
+		{
+		"id": "26",
+		"tenantId": "pb.amritsar",
+		"finYearRange": "2025-26",
+		"name": "2025-26",
+		"code": "2025-26",
+		"startingDate": 1743465000000,
+		"endingDate": 1775000999000,
+		"active": true,
+		"isActiveForPosting": true,
+		"isClosed": false,
+		"transferClosingBalance": false,
+		"module": "TL"
+	  },
     {
       "id": "25",
       "tenantId": "pb.amritsar",

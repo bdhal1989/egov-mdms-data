@@ -17,6 +17,10 @@
     {
       "code": "MOVABLE.MDV",
       "active": true
+    },
+	{
+      "code": "IMMOVABLE.IMMSH",
+      "active": true
     }
   ]
 }
